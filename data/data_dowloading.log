@@ -1,0 +1,2747 @@
+--2019-11-26 20:53:13--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_01.xls’
+
+     0K .......... .......... .......... .......... ........  100%  347K=0.1s
+
+2019-11-26 20:53:13 (347 KB/s) - ‘./2017_12_01.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:14--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_04.xls’
+
+     0K .......... .......... .......... .......... ..........100%  355K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:53:14 (355 KB/s) - ‘./2017_12_04.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:14--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_05.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  406K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:53:14 (414 KB/s) - ‘./2017_12_05.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:14--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_06.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  358K 0s
+    50K .                                                     100% 1.96M=0.1s
+
+2019-11-26 20:53:15 (367 KB/s) - ‘./2017_12_06.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_07.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  339K=0.1s
+
+2019-11-26 20:53:15 (339 KB/s) - ‘./2017_12_07.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38400 (38K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_08.xls’
+
+     0K .......... .......... .......... .......              100%  547K=0.07s
+
+2019-11-26 20:53:15 (547 KB/s) - ‘./2017_12_08.xls’ saved [38400/38400]
+
+--2019-11-26 20:53:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_11.xls’
+
+     0K .......... .......... .......... .......... .......   100%  337K=0.1s
+
+2019-11-26 20:53:16 (337 KB/s) - ‘./2017_12_11.xls’ saved [48128/48128]
+
+--2019-11-26 20:53:16--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_12.xls’
+
+     0K .......... .......... .......... .......... ........  100%  334K=0.1s
+
+2019-11-26 20:53:16 (334 KB/s) - ‘./2017_12_12.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:16--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_13.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  337K=0.1s
+
+2019-11-26 20:53:17 (337 KB/s) - ‘./2017_12_13.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:17--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_14.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  355K=0.1s
+
+2019-11-26 20:53:17 (355 KB/s) - ‘./2017_12_14.xls’ saved [50688/50688]
+
+--2019-11-26 20:53:17--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_15.xls’
+
+     0K .......... .......... .......... .......... .....     100%  333K=0.1s
+
+2019-11-26 20:53:17 (333 KB/s) - ‘./2017_12_15.xls’ saved [46080/46080]
+
+--2019-11-26 20:53:17--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_18.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  338K=0.1s
+
+2019-11-26 20:53:18 (338 KB/s) - ‘./2017_12_18.xls’ saved [50688/50688]
+
+--2019-11-26 20:53:18--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_19.xls’
+
+     0K .......... .......... .......... .......... ......    100%  342K=0.1s
+
+2019-11-26 20:53:18 (342 KB/s) - ‘./2017_12_19.xls’ saved [47616/47616]
+
+--2019-11-26 20:53:18--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_20.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  356K=0.1s
+
+2019-11-26 20:53:19 (356 KB/s) - ‘./2017_12_20.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:19--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_21.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  344K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:53:19 (350 KB/s) - ‘./2017_12_21.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:19--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44544 (44K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_22.xls’
+
+     0K .......... .......... .......... .......... ...       100%  299K=0.1s
+
+2019-11-26 20:53:19 (299 KB/s) - ‘./2017_12_22.xls’ saved [44544/44544]
+
+--2019-11-26 20:53:19--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38400 (38K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_25.xls’
+
+     0K .......... .......... .......... .......              100%  551K=0.07s
+
+2019-11-26 20:53:20 (551 KB/s) - ‘./2017_12_25.xls’ saved [38400/38400]
+
+--2019-11-26 20:53:20--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_26.xls’
+
+     0K .......... .......... .......... .......... ........  100%  352K=0.1s
+
+2019-11-26 20:53:20 (352 KB/s) - ‘./2017_12_26.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:20--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_27.xls’
+
+     0K .......... .......... .......... .......... ........  100%  348K=0.1s
+
+2019-11-26 20:53:21 (348 KB/s) - ‘./2017_12_27.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_28.xls’
+
+     0K .......... .......... .......... .......... ........  100%  155K=0.3s
+
+2019-11-26 20:53:21 (155 KB/s) - ‘./2017_12_28.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_DICIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_12_29.xls’
+
+     0K .......... .......... .......... .......... .......   100%  376K=0.1s
+
+2019-11-26 20:53:22 (376 KB/s) - ‘./2017_12_29.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:22--  http://www.essalud.gob.pe/transparencia/reg_visitas/31_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_31.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  351K 0s
+    50K .                                                     100% 1.70M=0.1s
+
+2019-11-26 20:53:22 (360 KB/s) - ‘./2017_10_31.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:22--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_30.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  418K 0s
+    50K .                                                     100% 3.04M=0.1s
+
+2019-11-26 20:53:23 (429 KB/s) - ‘./2017_10_30.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:23--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_27.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  250K 0s
+    50K .                                                     100% 1907G=0.2s
+
+2019-11-26 20:53:23 (255 KB/s) - ‘./2017_10_27.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:23--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_26.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  347K 0s
+    50K ...                                                   100% 1.70M=0.1s
+
+2019-11-26 20:53:24 (366 KB/s) - ‘./2017_10_26.xls’ saved [54784/54784]
+
+--2019-11-26 20:53:24--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_25.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  355K 0s
+    50K ..                                                    100%  972K=0.1s
+
+2019-11-26 20:53:24 (366 KB/s) - ‘./2017_10_25.xls’ saved [53760/53760]
+
+--2019-11-26 20:53:24--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_24.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  262K=0.2s
+
+2019-11-26 20:53:24 (262 KB/s) - ‘./2017_10_24.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:24--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_23.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  349K 0s
+    50K .                                                     100%  966K=0.1s
+
+2019-11-26 20:53:25 (356 KB/s) - ‘./2017_10_23.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:25--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:53:26 ERROR 404: Not Found.
+
+--2019-11-26 20:53:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_20.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  364K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:53:26 (372 KB/s) - ‘./2017_10_20.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55296 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_19.xls’
+
+     0K .......... .......... .......... .......... .......... 92%  364K 0s
+    50K ....                                                  100% 4.45M=0.1s
+
+2019-11-26 20:53:26 (390 KB/s) - ‘./2017_10_19.xls’ saved [55296/55296]
+
+--2019-11-26 20:53:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_18.xls’
+
+     0K .......... .......... .......... .......... ......    100%  319K=0.1s
+
+2019-11-26 20:53:27 (319 KB/s) - ‘./2017_10_18.xls’ saved [47104/47104]
+
+--2019-11-26 20:53:27--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_17.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  334K 0s
+    50K ..                                                    100% 1.47M=0.2s
+
+2019-11-26 20:53:27 (346 KB/s) - ‘./2017_10_17.xls’ saved [53760/53760]
+
+--2019-11-26 20:53:27--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55296 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_16.xls’
+
+     0K .......... .......... .......... .......... .......... 92%  380K 0s
+    50K ....                                                  100% 1.57M=0.1s
+
+2019-11-26 20:53:28 (403 KB/s) - ‘./2017_10_16.xls’ saved [55296/55296]
+
+--2019-11-26 20:53:28--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_13.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  344K 0s
+    50K ..                                                    100% 1.45M=0.1s
+
+2019-11-26 20:53:28 (357 KB/s) - ‘./2017_10_13.xls’ saved [53760/53760]
+
+--2019-11-26 20:53:28--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_12.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  359K 0s
+    50K .                                                     100%  172K=0.1s
+
+2019-11-26 20:53:28 (348 KB/s) - ‘./2017_10_12.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:28--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_11.xls’
+
+     0K .......... .......... .......... .......... ..........100%  219K 0s
+    50K                                                       100% 0.00 =0.2s
+
+2019-11-26 20:53:29 (219 KB/s) - ‘./2017_10_11.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:29--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_10.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  355K=0.1s
+
+2019-11-26 20:53:30 (355 KB/s) - ‘./2017_10_10.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:30--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_09.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  361K 0s
+    50K ..                                                    100% 2.84M=0.1s
+
+2019-11-26 20:53:30 (377 KB/s) - ‘./2017_10_09.xls’ saved [53760/53760]
+
+--2019-11-26 20:53:30--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_06.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  340K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:53:30 (343 KB/s) - ‘./2017_10_06.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:30--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_05.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  342K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:53:31 (345 KB/s) - ‘./2017_10_05.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:31--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55296 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_04.xls’
+
+     0K .......... .......... .......... .......... .......... 92%  345K 0s
+    50K ....                                                  100% 4.44M=0.1s
+
+2019-11-26 20:53:32 (370 KB/s) - ‘./2017_10_04.xls’ saved [55296/55296]
+
+--2019-11-26 20:53:32--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56320 (55K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_03.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  223K 0s
+    50K .....                                                 100% 16.2M=0.2s
+
+2019-11-26 20:53:32 (245 KB/s) - ‘./2017_10_03.xls’ saved [56320/56320]
+
+--2019-11-26 20:53:32--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_10_02.xls’
+
+     0K .......... .......... .......... .......... ..........100%  347K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:53:33 (347 KB/s) - ‘./2017_10_02.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:33--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37888 (37K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_01.xls’
+
+     0K .......... .......... .......... .......              100%  590K=0.06s
+
+2019-11-26 20:53:33 (590 KB/s) - ‘./2017_11_01.xls’ saved [37888/37888]
+
+--2019-11-26 20:53:33--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_02.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  410K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:53:34 (418 KB/s) - ‘./2017_11_02.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:34--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_03.xls’
+
+     0K .......... .......... .......... .......... ........  100%  421K=0.1s
+
+2019-11-26 20:53:34 (421 KB/s) - ‘./2017_11_03.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:34--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_06.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  346K 0s
+    50K ..                                                    100% 3815G=0.1s
+
+2019-11-26 20:53:35 (360 KB/s) - ‘./2017_11_06.xls’ saved [53248/53248]
+
+--2019-11-26 20:53:35--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_07.xls’
+
+     0K .......... .......... .......... .......... ..........100%  358K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:53:35 (358 KB/s) - ‘./2017_11_07.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:35--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_08.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  173K 0s
+    50K                                                       100%  954G=0.3s
+
+2019-11-26 20:53:36 (175 KB/s) - ‘./2017_11_08.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:36--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_09.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  341K 0s
+    50K ...                                                   100%  756K=0.2s
+
+2019-11-26 20:53:36 (352 KB/s) - ‘./2017_11_09.xls’ saved [54272/54272]
+
+--2019-11-26 20:53:36--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_10.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  375K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:53:36 (378 KB/s) - ‘./2017_11_10.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:36--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_13.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  364K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:53:37 (371 KB/s) - ‘./2017_11_13.xls’ saved [52224/52224]
+
+--2019-11-26 20:53:37--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_14.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  408K 0s
+    50K ...                                                   100% 3.94M=0.1s
+
+2019-11-26 20:53:37 (433 KB/s) - ‘./2017_11_14.xls’ saved [54784/54784]
+
+--2019-11-26 20:53:37--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_15.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  257K 0s
+    50K ...                                                   100%  359K=0.2s
+
+2019-11-26 20:53:38 (261 KB/s) - ‘./2017_11_15.xls’ saved [54784/54784]
+
+--2019-11-26 20:53:38--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37888 (37K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_16.xls’
+
+     0K .......... .......... .......... .......              100%  819K=0.05s
+
+2019-11-26 20:53:38 (819 KB/s) - ‘./2017_11_16.xls’ saved [37888/37888]
+
+--2019-11-26 20:53:38--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_17.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  374K 0s
+    50K ...                                                   100%  313K=0.1s
+
+2019-11-26 20:53:38 (370 KB/s) - ‘./2017_11_17.xls’ saved [54272/54272]
+
+--2019-11-26 20:53:38--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_20.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  393K 0s
+    50K .                                                     100%  809K=0.1s
+
+2019-11-26 20:53:39 (399 KB/s) - ‘./2017_11_20.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:39--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_21.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  357K=0.1s
+
+2019-11-26 20:53:39 (357 KB/s) - ‘./2017_11_21.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:39--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_22.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  349K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:53:40 (353 KB/s) - ‘./2017_11_22.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:40--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_23.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  366K 0s
+    50K .                                                     100% 2.20M=0.1s
+
+2019-11-26 20:53:40 (375 KB/s) - ‘./2017_11_23.xls’ saved [52736/52736]
+
+--2019-11-26 20:53:40--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_24.xls’
+
+     0K .......... .......... .......... .......... ..........100%  290K 0s
+    50K                                                       100% 0.00 =0.2s
+
+2019-11-26 20:53:41 (290 KB/s) - ‘./2017_11_24.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:41--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_27.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  361K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:53:41 (364 KB/s) - ‘./2017_11_27.xls’ saved [51712/51712]
+
+--2019-11-26 20:53:41--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_28.xls’
+
+     0K .......... .......... .......... .......... ........  100%  352K=0.1s
+
+2019-11-26 20:53:41 (352 KB/s) - ‘./2017_11_28.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:41--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_29.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  382K=0.1s
+
+2019-11-26 20:53:42 (382 KB/s) - ‘./2017_11_29.xls’ saved [50688/50688]
+
+--2019-11-26 20:53:42--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_NOVIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55808 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_11_30.xls’
+
+     0K .......... .......... .......... .......... .......... 91%  360K 0s
+    50K ....                                                  100% 3.32M=0.1s
+
+2019-11-26 20:53:42 (389 KB/s) - ‘./2017_11_30.xls’ saved [55808/55808]
+
+--2019-11-26 20:53:42--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_29.xls’
+
+     0K .......... .......... .......... .......... ........  100%  366K=0.1s
+
+2019-11-26 20:53:43 (366 KB/s) - ‘./2017_09_29.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:43--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_28.xls’
+
+     0K .......... .......... .......... .......... ........  100%  385K=0.1s
+
+2019-11-26 20:53:43 (385 KB/s) - ‘./2017_09_28.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:43--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_27.xls’
+
+     0K .......... .......... .......... .......... .......   100%  339K=0.1s
+
+2019-11-26 20:53:43 (339 KB/s) - ‘./2017_09_27.xls’ saved [48128/48128]
+
+--2019-11-26 20:53:43--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_26.xls’
+
+     0K .......... .......... .......... .......... ......    100%  434K=0.1s
+
+2019-11-26 20:53:44 (434 KB/s) - ‘./2017_09_26.xls’ saved [47616/47616]
+
+--2019-11-26 20:53:44--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_25.xls’
+
+     0K .......... .......... .......... .......... ......    100%  321K=0.1s
+
+2019-11-26 20:53:44 (321 KB/s) - ‘./2017_09_25.xls’ saved [47104/47104]
+
+--2019-11-26 20:53:44--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_22.xls’
+
+     0K .......... .......... .......... .......... .......   100%  351K=0.1s
+
+2019-11-26 20:53:45 (351 KB/s) - ‘./2017_09_22.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_21.xls’
+
+     0K .......... .......... .......... .......... ........  100%  378K=0.1s
+
+2019-11-26 20:53:45 (378 KB/s) - ‘./2017_09_21.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_20.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  368K 0s
+    50K ..                                                    100% 1.04M=0.1s
+
+2019-11-26 20:53:45 (380 KB/s) - ‘./2017_09_20.xls’ saved [53760/53760]
+
+--2019-11-26 20:53:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_19.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  342K=0.1s
+
+2019-11-26 20:53:46 (342 KB/s) - ‘./2017_09_19.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:46--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_18.xls’
+
+     0K .......... .......... .......... .......... ........  100%  269K=0.2s
+
+2019-11-26 20:53:46 (269 KB/s) - ‘./2017_09_18.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:46--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_15.xls’
+
+     0K .......... .......... .......... .......... ........  100%  311K=0.2s
+
+2019-11-26 20:53:47 (311 KB/s) - ‘./2017_09_15.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:47--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_14.xls’
+
+     0K .......... .......... .......... .......... .......   100%  329K=0.1s
+
+2019-11-26 20:53:47 (329 KB/s) - ‘./2017_09_14.xls’ saved [48128/48128]
+
+--2019-11-26 20:53:47--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_13.xls’
+
+     0K .......... .......... .......... .......... ......    100%  337K=0.1s
+
+2019-11-26 20:53:47 (337 KB/s) - ‘./2017_09_13.xls’ saved [47104/47104]
+
+--2019-11-26 20:53:47--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_12.xls’
+
+     0K .......... .......... .......... .......... ........  100%  357K=0.1s
+
+2019-11-26 20:53:48 (357 KB/s) - ‘./2017_09_12.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:48--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_11.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  334K=0.1s
+
+2019-11-26 20:53:48 (334 KB/s) - ‘./2017_09_11.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:48--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_08.xls’
+
+     0K .......... .......... .......... .......... .......   100%  331K=0.1s
+
+2019-11-26 20:53:49 (331 KB/s) - ‘./2017_09_08.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_07.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  359K=0.1s
+
+2019-11-26 20:53:49 (359 KB/s) - ‘./2017_09_07.xls’ saved [50176/50176]
+
+--2019-11-26 20:53:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_06.xls’
+
+     0K .......... .......... .......... .......... ..........100%  357K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:53:49 (357 KB/s) - ‘./2017_09_06.xls’ saved [51200/51200]
+
+--2019-11-26 20:53:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_05.xls’
+
+     0K .......... .......... .......... .......... .......   100%  357K=0.1s
+
+2019-11-26 20:53:50 (357 KB/s) - ‘./2017_09_05.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:50--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_04.xls’
+
+     0K .......... .......... .......... .......... ......    100%  317K=0.1s
+
+2019-11-26 20:53:50 (317 KB/s) - ‘./2017_09_04.xls’ saved [47616/47616]
+
+--2019-11-26 20:53:50--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_SETIEMBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_09_01.xls’
+
+     0K .......... .......... .......... .......... ........  100%  379K=0.1s
+
+2019-11-26 20:53:51 (379 KB/s) - ‘./2017_09_01.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/31_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_31.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  377K=0.1s
+
+2019-11-26 20:53:51 (377 KB/s) - ‘./2017_08_31.xls’ saved [50688/50688]
+
+--2019-11-26 20:53:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37376 (36K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_30.xls’
+
+     0K .......... .......... .......... ......               100%  566K=0.06s
+
+2019-11-26 20:53:51 (566 KB/s) - ‘./2017_08_30.xls’ saved [37376/37376]
+
+--2019-11-26 20:53:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_29.xls’
+
+     0K .......... .......... .......... .......... .......   100%  331K=0.1s
+
+2019-11-26 20:53:52 (331 KB/s) - ‘./2017_08_29.xls’ saved [48128/48128]
+
+--2019-11-26 20:53:52--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_28.xls’
+
+     0K .......... .......... .......... .......... ......    100%  335K=0.1s
+
+2019-11-26 20:53:52 (335 KB/s) - ‘./2017_08_28.xls’ saved [47616/47616]
+
+--2019-11-26 20:53:52--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_25.xls’
+
+     0K .......... .......... .......... .......... .......   100%  333K=0.1s
+
+2019-11-26 20:53:53 (333 KB/s) - ‘./2017_08_25.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:53--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_24.xls’
+
+     0K .......... .......... .......... .......... ........  100%  358K=0.1s
+
+2019-11-26 20:53:53 (358 KB/s) - ‘./2017_08_24.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:53--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_23.xls’
+
+     0K .......... .......... .......... .......... .....     100%  339K=0.1s
+
+2019-11-26 20:53:54 (339 KB/s) - ‘./2017_08_23.xls’ saved [46592/46592]
+
+--2019-11-26 20:53:54--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_22.xls’
+
+     0K .......... .......... .......... .......... ........  100%  352K=0.1s
+
+2019-11-26 20:53:54 (352 KB/s) - ‘./2017_08_22.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:54--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_21.xls’
+
+     0K .......... .......... .......... .......... ......    100%  335K=0.1s
+
+2019-11-26 20:53:54 (335 KB/s) - ‘./2017_08_21.xls’ saved [47104/47104]
+
+--2019-11-26 20:53:54--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_18.xls’
+
+     0K .......... .......... .......... .......... ........  100%  338K=0.1s
+
+2019-11-26 20:53:55 (338 KB/s) - ‘./2017_08_18.xls’ saved [49152/49152]
+
+--2019-11-26 20:53:55--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_17.xls’
+
+     0K .......... .......... .......... .......... .....     100%  323K=0.1s
+
+2019-11-26 20:53:55 (323 KB/s) - ‘./2017_08_17.xls’ saved [46592/46592]
+
+--2019-11-26 20:53:55--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_16.xls’
+
+     0K .......... .......... .......... .......... .......   100%  345K=0.1s
+
+2019-11-26 20:53:56 (345 KB/s) - ‘./2017_08_16.xls’ saved [48128/48128]
+
+--2019-11-26 20:53:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93696 (92K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_15.xls’
+
+     0K .......... .......... .......... .......... .......... 54%  359K 0s
+    50K .......... .......... .......... .......... .         100%  473K=0.2s
+
+2019-11-26 20:53:56 (403 KB/s) - ‘./2017_08_15.xls’ saved [93696/93696]
+
+--2019-11-26 20:53:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99840 (98K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_14.xls’
+
+     0K .......... .......... .......... .......... .......... 51%  389K 0s
+    50K .......... .......... .......... .......... .......   100%  506K=0.2s
+
+2019-11-26 20:53:56 (438 KB/s) - ‘./2017_08_14.xls’ saved [99840/99840]
+
+--2019-11-26 20:53:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_11.xls’
+
+     0K .......... .......... .......... .......... .......   100%  358K=0.1s
+
+2019-11-26 20:53:57 (358 KB/s) - ‘./2017_08_11.xls’ saved [48640/48640]
+
+--2019-11-26 20:53:57--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_10.xls’
+
+     0K .......... .......... .......... .......... .....     100%  334K=0.1s
+
+2019-11-26 20:53:57 (334 KB/s) - ‘./2017_08_10.xls’ saved [46080/46080]
+
+--2019-11-26 20:53:57--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_09.xls’
+
+     0K .......... .......... .......... .......... ........  100%  370K=0.1s
+
+2019-11-26 20:53:58 (370 KB/s) - ‘./2017_08_09.xls’ saved [49664/49664]
+
+--2019-11-26 20:53:58--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_08.xls’
+
+     0K .......... .......... .......... .......... ......    100%  424K=0.1s
+
+2019-11-26 20:53:58 (424 KB/s) - ‘./2017_08_08.xls’ saved [47616/47616]
+
+--2019-11-26 20:53:58--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_07.xls’
+
+     0K .......... .......... .......... .......... .....     100%  329K=0.1s
+
+2019-11-26 20:53:58 (329 KB/s) - ‘./2017_08_07.xls’ saved [46080/46080]
+
+--2019-11-26 20:53:58--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_04.xls’
+
+     0K .......... .......... .......... .......... ......    100%  312K=0.1s
+
+2019-11-26 20:53:59 (312 KB/s) - ‘./2017_08_04.xls’ saved [47104/47104]
+
+--2019-11-26 20:53:59--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_03.xls’
+
+     0K .......... .......... .......... .......... .....     100%  344K=0.1s
+
+2019-11-26 20:53:59 (344 KB/s) - ‘./2017_08_03.xls’ saved [46592/46592]
+
+--2019-11-26 20:53:59--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_02.xls’
+
+     0K .......... .......... .......... .......... .....     100%  427K=0.1s
+
+2019-11-26 20:54:00 (427 KB/s) - ‘./2017_08_02.xls’ saved [46080/46080]
+
+--2019-11-26 20:54:00--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_AGOSTO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45568 (44K) [application/vnd.ms-excel]
+Saving to: ‘./2017_08_01.xls’
+
+     0K .......... .......... .......... .......... ....      100%  346K=0.1s
+
+2019-11-26 20:54:00 (346 KB/s) - ‘./2017_08_01.xls’ saved [45568/45568]
+
+--2019-11-26 20:54:00--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_28_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_28.xls’
+
+     0K .......... .......... .......... .......... ......    100%  333K=0.1s
+
+2019-11-26 20:54:00 (333 KB/s) - ‘./2017_04_28.xls’ saved [47104/47104]
+
+--2019-11-26 20:54:00--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_27_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_27.xls’
+
+     0K .......... .......... .......... .......... ..........100%  346K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:01 (346 KB/s) - ‘./2017_04_27.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:01--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_26_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_26.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  326K=0.2s
+
+2019-11-26 20:54:01 (326 KB/s) - ‘./2017_04_26.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:01--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_25_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_25.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  353K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:54:02 (357 KB/s) - ‘./2017_04_25.xls’ saved [51712/51712]
+
+--2019-11-26 20:54:02--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_24_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_24.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  215K 0s
+    50K .                                                     100% 1907G=0.2s
+
+2019-11-26 20:54:02 (220 KB/s) - ‘./2017_04_24.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:02--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_21_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77824 (76K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_21.xls’
+
+     0K .......... .......... .......... .......... .......... 65%  384K 0s
+    50K .......... .......... ......                          100% 1.75M=0.1s
+
+2019-11-26 20:54:03 (525 KB/s) - ‘./2017_04_21.xls’ saved [77824/77824]
+
+--2019-11-26 20:54:03--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_20%20_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74240 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_20.xls’
+
+     0K .......... .......... .......... .......... .......... 68%  225K 0s
+    50K .......... .......... ..                              100% 2.52M=0.2s
+
+2019-11-26 20:54:03 (314 KB/s) - ‘./2017_04_20.xls’ saved [74240/74240]
+
+--2019-11-26 20:54:03--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_19_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73216 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_19.xls’
+
+     0K .......... .......... .......... .......... .......... 69%  398K 0s
+    50K .......... .......... .                               100% 1.17M=0.1s
+
+2019-11-26 20:54:04 (498 KB/s) - ‘./2017_04_19.xls’ saved [73216/73216]
+
+--2019-11-26 20:54:04--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_18_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76288 (74K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_18.xls’
+
+     0K .......... .......... .......... .......... .......... 67%  350K 0s
+    50K .......... .......... ....                            100% 1.35M=0.2s
+
+2019-11-26 20:54:04 (464 KB/s) - ‘./2017_04_18.xls’ saved [76288/76288]
+
+--2019-11-26 20:54:04--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_17_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73728 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_17.xls’
+
+     0K .......... .......... .......... .......... .......... 69%  353K 0s
+    50K .......... .......... ..                              100% 1.17M=0.2s
+
+2019-11-26 20:54:04 (449 KB/s) - ‘./2017_04_17.xls’ saved [73728/73728]
+
+--2019-11-26 20:54:04--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_14%20_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62976 (62K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_14.xls’
+
+     0K .......... .......... .......... .......... .......... 81%  356K 0s
+    50K .......... .                                          100% 2.38M=0.1s
+
+2019-11-26 20:54:05 (423 KB/s) - ‘./2017_04_14.xls’ saved [62976/62976]
+
+--2019-11-26 20:54:05--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_13_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62976 (62K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_13.xls’
+
+     0K .......... .......... .......... .......... .......... 81%  376K 0s
+    50K .......... .                                          100% 2.09M=0.1s
+
+2019-11-26 20:54:05 (445 KB/s) - ‘./2017_04_13.xls’ saved [62976/62976]
+
+--2019-11-26 20:54:05--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_12_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75264 (74K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_12.xls’
+
+     0K .......... .......... .......... .......... .......... 68%  346K 0s
+    50K .......... .......... ...                             100% 1.88M=0.2s
+
+2019-11-26 20:54:06 (469 KB/s) - ‘./2017_04_12.xls’ saved [75264/75264]
+
+--2019-11-26 20:54:06--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_11_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73728 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_11.xls’
+
+     0K .......... .......... .......... .......... .......... 69%  355K 0s
+    50K .......... .......... ..                              100% 1.79M=0.2s
+
+2019-11-26 20:54:06 (472 KB/s) - ‘./2017_04_11.xls’ saved [73728/73728]
+
+--2019-11-26 20:54:06--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_10_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73216 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_10.xls’
+
+     0K .......... .......... .......... .......... .......... 69%  361K 0s
+    50K .......... .......... .                               100% 1.07M=0.2s
+
+2019-11-26 20:54:06 (452 KB/s) - ‘./2017_04_10.xls’ saved [73216/73216]
+
+--2019-11-26 20:54:06--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_07_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75264 (74K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_07.xls’
+
+     0K .......... .......... .......... .......... .......... 68%  389K 0s
+    50K .......... .......... ...                             100% 1.33M=0.1s
+
+2019-11-26 20:54:07 (504 KB/s) - ‘./2017_04_07.xls’ saved [75264/75264]
+
+--2019-11-26 20:54:07--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_06_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72192 (70K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_06.xls’
+
+     0K .......... .......... .......... .......... .......... 70%  339K 0s
+    50K .......... ..........                                 100% 2.13M=0.2s
+
+2019-11-26 20:54:07 (449 KB/s) - ‘./2017_04_06.xls’ saved [72192/72192]
+
+--2019-11-26 20:54:07--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_05_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73216 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_05.xls’
+
+     0K .......... .......... .......... .......... .......... 69%  381K 0s
+    50K .......... .......... .                               100% 1.52M=0.1s
+
+2019-11-26 20:54:08 (493 KB/s) - ‘./2017_04_05.xls’ saved [73216/73216]
+
+--2019-11-26 20:54:08--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_04_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72704 (71K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_04.xls’
+
+     0K .......... .......... .......... .......... .......... 70%  230K 0s
+    50K .......... .......... .                               100% 1022K=0.2s
+
+2019-11-26 20:54:08 (298 KB/s) - ‘./2017_04_04.xls’ saved [72704/72704]
+
+--2019-11-26 20:54:08--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_O3_DE_ABRIL_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74240 (72K) [application/vnd.ms-excel]
+Saving to: ‘./2017_04_03.xls’
+
+     0K .......... .......... .......... .......... .......... 68%  354K 0s
+    50K .......... .......... ..                              100% 1.45M=0.2s
+
+2019-11-26 20:54:09 (463 KB/s) - ‘./2017_04_03.xls’ saved [74240/74240]
+
+--2019-11-26 20:54:09--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37888 (37K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_30.xls’
+
+     0K .......... .......... .......... .......              100%  466K=0.08s
+
+2019-11-26 20:54:09 (466 KB/s) - ‘./2017_06_30.xls’ saved [37888/37888]
+
+--2019-11-26 20:54:09--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42496 (42K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_29.xls’
+
+     0K .......... .......... .......... .......... .         100%  508K=0.08s
+
+2019-11-26 20:54:09 (508 KB/s) - ‘./2017_06_29.xls’ saved [42496/42496]
+
+--2019-11-26 20:54:09--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_28.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  351K 0s
+    50K ...                                                   100% 1.93M=0.1s
+
+2019-11-26 20:54:10 (371 KB/s) - ‘./2017_06_28.xls’ saved [54784/54784]
+
+--2019-11-26 20:54:10--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_27.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  426K=0.1s
+
+2019-11-26 20:54:10 (426 KB/s) - ‘./2017_06_27.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:10--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_26.xls’
+
+     0K .......... .......... .......... .......... .....     100%  267K=0.2s
+
+2019-11-26 20:54:11 (267 KB/s) - ‘./2017_06_26.xls’ saved [46592/46592]
+
+--2019-11-26 20:54:11--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_23.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  343K=0.1s
+
+2019-11-26 20:54:11 (343 KB/s) - ‘./2017_06_23.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:11--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_22.xls’
+
+     0K .......... .......... .......... .......... .....     100%  259K=0.2s
+
+2019-11-26 20:54:12 (259 KB/s) - ‘./2017_06_22.xls’ saved [46592/46592]
+
+--2019-11-26 20:54:12--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_21.xls’
+
+     0K .......... .......... .......... .......... ......    100%  488K=0.1s
+
+2019-11-26 20:54:12 (488 KB/s) - ‘./2017_06_21.xls’ saved [47616/47616]
+
+--2019-11-26 20:54:12--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_20.xls’
+
+     0K .......... .......... .......... .......... ......    100%  303K=0.2s
+
+2019-11-26 20:54:12 (303 KB/s) - ‘./2017_06_20.xls’ saved [47616/47616]
+
+--2019-11-26 20:54:12--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_19.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  376K=0.1s
+
+2019-11-26 20:54:13 (376 KB/s) - ‘./2017_06_19.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:13--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_16.xls’
+
+     0K .......... .......... .......... .......... .....     100%  321K=0.1s
+
+2019-11-26 20:54:13 (321 KB/s) - ‘./2017_06_16.xls’ saved [46080/46080]
+
+--2019-11-26 20:54:13--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_15.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  346K=0.1s
+
+2019-11-26 20:54:14 (346 KB/s) - ‘./2017_06_15.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:14--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_14.xls’
+
+     0K .......... .......... .......... .......... ..........100%  357K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:14 (357 KB/s) - ‘./2017_06_14.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:14--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_13.xls’
+
+     0K .......... .......... .......... .......... ......    100%  386K=0.1s
+
+2019-11-26 20:54:15 (386 KB/s) - ‘./2017_06_13.xls’ saved [47104/47104]
+
+--2019-11-26 20:54:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_12.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  376K 0s
+    50K ..                                                    100%  561K=0.1s
+
+2019-11-26 20:54:15 (381 KB/s) - ‘./2017_06_12.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98304 (96K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_09.xls’
+
+     0K .......... .......... .......... .......... .......... 52%  386K 0s
+    50K .......... .......... .......... .......... ......    100%  576K=0.2s
+
+2019-11-26 20:54:15 (458 KB/s) - ‘./2017_06_09.xls’ saved [98304/98304]
+
+--2019-11-26 20:54:15--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_08.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  374K 0s
+    50K ...                                                   100% 1.70M=0.1s
+
+2019-11-26 20:54:16 (394 KB/s) - ‘./2017_06_08.xls’ saved [54784/54784]
+
+--2019-11-26 20:54:16--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98816 (96K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_07.xls’
+
+     0K .......... .......... .......... .......... .......... 51%  361K 0s
+    50K .......... .......... .......... .......... ......    100%  512K=0.2s
+
+2019-11-26 20:54:16 (421 KB/s) - ‘./2017_06_07.xls’ saved [98816/98816]
+
+--2019-11-26 20:54:16--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97792 (96K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_06.xls’
+
+     0K .......... .......... .......... .......... .......... 52%  348K 0s
+    50K .......... .......... .......... .......... .....     100%  609K=0.2s
+
+2019-11-26 20:54:17 (437 KB/s) - ‘./2017_06_06.xls’ saved [97792/97792]
+
+--2019-11-26 20:54:17--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_05.xls’
+
+     0K .......... .......... .......... .......... ........  100%  378K=0.1s
+
+2019-11-26 20:54:17 (378 KB/s) - ‘./2017_06_05.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:17--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98816 (96K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_02.xls’
+
+     0K .......... .......... .......... .......... .......... 51%  356K 0s
+    50K .......... .......... .......... .......... ......    100%  513K=0.2s
+
+2019-11-26 20:54:18 (418 KB/s) - ‘./2017_06_02.xls’ saved [98816/98816]
+
+--2019-11-26 20:54:18--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_JUNIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_06_01.xls’
+
+     0K .......... .......... .......... .......... ..........100%  376K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:18 (376 KB/s) - ‘./2017_06_01.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:18--  http://www.essalud.gob.pe/transparencia/reg_visitas/31_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_31.xls’
+
+     0K .......... .......... .......... .......... ......    100%  348K=0.1s
+
+2019-11-26 20:54:18 (348 KB/s) - ‘2017_05_31.xls’ saved [47616/47616]
+
+--2019-11-26 20:54:18--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_30.xls’
+
+     0K .......... .......... .......... .......... ........  100%  338K=0.1s
+
+2019-11-26 20:54:19 (338 KB/s) - ‘2017_05_30.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:19--  http://www.essalud.gob.pe/transparencia/reg_visitas/29_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_29.xls’
+
+     0K .......... .......... .......... .......... .......   100%  372K=0.1s
+
+2019-11-26 20:54:19 (372 KB/s) - ‘2017_05_29.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:19--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_26.xls’
+
+     0K .......... .......... .......... .......... .......   100%  649K=0.07s
+
+2019-11-26 20:54:20 (649 KB/s) - ‘2017_05_26.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:20--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_25.xls’
+
+     0K .......... .......... .......... .......... ........  100%  366K=0.1s
+
+2019-11-26 20:54:20 (366 KB/s) - ‘2017_05_25.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:20--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_24.xls’
+
+     0K .......... .......... .......... .......... ........  100%  225K=0.2s
+
+2019-11-26 20:54:21 (225 KB/s) - ‘2017_05_24.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_23.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  368K=0.1s
+
+2019-11-26 20:54:21 (368 KB/s) - ‘2017_05_23.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46592 (46K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_22.xls’
+
+     0K .......... .......... .......... .......... .....     100%  364K=0.1s
+
+2019-11-26 20:54:21 (364 KB/s) - ‘2017_05_22.xls’ saved [46592/46592]
+
+--2019-11-26 20:54:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:22 ERROR 404: Not Found.
+
+--2019-11-26 20:54:22--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:23 ERROR 404: Not Found.
+
+--2019-11-26 20:54:23--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:24 ERROR 404: Not Found.
+
+--2019-11-26 20:54:24--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:25 ERROR 404: Not Found.
+
+--2019-11-26 20:54:25--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_12.xls’
+
+     0K .......... .......... .......... .......... .......   100%  375K=0.1s
+
+2019-11-26 20:54:25 (375 KB/s) - ‘2017_05_12.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:25--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_11.xls’
+
+     0K .......... .......... .......... .......... .......   100%  349K=0.1s
+
+2019-11-26 20:54:26 (349 KB/s) - ‘2017_05_11.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_10.xls’
+
+     0K .......... .......... .......... .......... ........  100%  361K=0.1s
+
+2019-11-26 20:54:26 (361 KB/s) - ‘2017_05_10.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_09.xls’
+
+     0K .......... .......... .......... .......... ........  100%  353K=0.1s
+
+2019-11-26 20:54:26 (353 KB/s) - ‘2017_05_09.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:26--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_08.xls’
+
+     0K .......... .......... .......... .......... ......    100%  276K=0.2s
+
+2019-11-26 20:54:27 (276 KB/s) - ‘2017_05_08.xls’ saved [47104/47104]
+
+--2019-11-26 20:54:27--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_05.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  377K=0.1s
+
+2019-11-26 20:54:27 (377 KB/s) - ‘2017_05_05.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:27--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_04.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  377K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:28 (385 KB/s) - ‘2017_05_04.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:28--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_03.xls’
+
+     0K .......... .......... .......... .......... .......   100%  362K=0.1s
+
+2019-11-26 20:54:28 (362 KB/s) - ‘2017_05_03.xls’ saved [48640/48640]
+
+--2019-11-26 20:54:28--  http://www.essalud.gob.pe/transparencia/reg_visitas/O2_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45568 (44K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_02.xls’
+
+     0K .......... .......... .......... .......... ....      100%  361K=0.1s
+
+2019-11-26 20:54:29 (361 KB/s) - ‘2017_05_02.xls’ saved [45568/45568]
+
+--2019-11-26 20:54:29--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37888 (37K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_01.xls’
+
+     0K .......... .......... .......... .......              100%  632K=0.06s
+
+2019-11-26 20:54:29 (632 KB/s) - ‘2017_05_01.xls’ saved [37888/37888]
+
+--2019-11-26 20:54:29--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_31_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_31.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  363K 0s
+    50K ..                                                    100% 1.45M=0.1s
+
+2019-11-26 20:54:29 (376 KB/s) - ‘./2017_03_31.xls’ saved [53760/53760]
+
+--2019-11-26 20:54:29--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_30_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56320 (55K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_30.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  348K 0s
+    50K .....                                                 100% 1.06M=0.1s
+
+2019-11-26 20:54:30 (371 KB/s) - ‘./2017_03_30.xls’ saved [56320/56320]
+
+--2019-11-26 20:54:30--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_29_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_29.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  274K 0s
+    50K ...                                                   100% 1.90M=0.2s
+
+2019-11-26 20:54:30 (290 KB/s) - ‘./2017_03_29.xls’ saved [54784/54784]
+
+--2019-11-26 20:54:30--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_28_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_28.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  300K 0s
+    50K ...                                                   100%  989K=0.2s
+
+2019-11-26 20:54:31 (314 KB/s) - ‘./2017_03_28.xls’ saved [54784/54784]
+
+--2019-11-26 20:54:31--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_27_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55808 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_27.xls’
+
+     0K .......... .......... .......... .......... .......... 91%  267K 0s
+    50K ....                                                  100% 1.03M=0.2s
+
+2019-11-26 20:54:31 (285 KB/s) - ‘./2017_03_27.xls’ saved [55808/55808]
+
+--2019-11-26 20:54:31--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_24_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57344 (56K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_24.xls’
+
+     0K .......... .......... .......... .......... .......... 89%  366K 0s
+    50K ......                                                100% 1.23M=0.1s
+
+2019-11-26 20:54:32 (396 KB/s) - ‘./2017_03_24.xls’ saved [57344/57344]
+
+--2019-11-26 20:54:32--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_23_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55296 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_23.xls’
+
+     0K .......... .......... .......... .......... .......... 92%  277K 0s
+    50K ....                                                  100% 2.15M=0.2s
+
+2019-11-26 20:54:33 (297 KB/s) - ‘./2017_03_23.xls’ saved [55296/55296]
+
+--2019-11-26 20:54:33--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_22_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56320 (55K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_22.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  381K 0s
+    50K .....                                                 100%  555K=0.1s
+
+2019-11-26 20:54:33 (392 KB/s) - ‘./2017_03_22.xls’ saved [56320/56320]
+
+--2019-11-26 20:54:33--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_21_DE%20MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58368 (57K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_21.xls’
+
+     0K .......... .......... .......... .......... .......... 87%  334K 0s
+    50K .......                                               100% 1.88M=0.2s
+
+2019-11-26 20:54:33 (372 KB/s) - ‘./2017_03_21.xls’ saved [58368/58368]
+
+--2019-11-26 20:54:33--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_20_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_20.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  356K 0s
+    50K ..                                                    100% 1.18M=0.1s
+
+2019-11-26 20:54:34 (368 KB/s) - ‘./2017_03_20.xls’ saved [53760/53760]
+
+--2019-11-26 20:54:34--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_17_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_17.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  402K 0s
+    50K ..                                                    100%  230K=0.1s
+
+2019-11-26 20:54:34 (391 KB/s) - ‘./2017_03_17.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:34--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_16_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54784 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_16.xls’
+
+     0K .......... .......... .......... .......... .......... 93%  410K 0s
+    50K ...                                                   100% 2.10M=0.1s
+
+2019-11-26 20:54:35 (433 KB/s) - ‘./2017_03_16.xls’ saved [54784/54784]
+
+--2019-11-26 20:54:35--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_15_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58880 (58K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_15.xls’
+
+     0K .......... .......... .......... .......... .......... 86%  388K 0s
+    50K .......                                               100% 2.73M=0.1s
+
+2019-11-26 20:54:35 (437 KB/s) - ‘./2017_03_15.xls’ saved [58880/58880]
+
+--2019-11-26 20:54:35--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_14_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57856 (56K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_14.xls’
+
+     0K .......... .......... .......... .......... .......... 88%  368K 0s
+    50K ......                                                100% 1.90M=0.1s
+
+2019-11-26 20:54:35 (406 KB/s) - ‘./2017_03_14.xls’ saved [57856/57856]
+
+--2019-11-26 20:54:35--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_13_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52736 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_13.xls’
+
+     0K .......... .......... .......... .......... .......... 97%  369K 0s
+    50K .                                                     100% 1.39M=0.1s
+
+2019-11-26 20:54:36 (377 KB/s) - ‘./2017_03_13.xls’ saved [52736/52736]
+
+--2019-11-26 20:54:36--  http://www.essalud.gob.pe/transparencia/reg_visitas/VIERNES_10_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_10.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  356K 0s
+    50K ...                                                   100% 1.91M=0.1s
+
+2019-11-26 20:54:36 (373 KB/s) - ‘./2017_03_10.xls’ saved [54272/54272]
+
+--2019-11-26 20:54:36--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_09_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_09.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  423K 0s
+    50K ...                                                   100% 1.08M=0.1s
+
+2019-11-26 20:54:37 (438 KB/s) - ‘./2017_03_09.xls’ saved [54272/54272]
+
+--2019-11-26 20:54:37--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_08_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_08.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  415K 0s
+    50K ...                                                   100%  338K=0.1s
+
+2019-11-26 20:54:37 (410 KB/s) - ‘./2017_03_08.xls’ saved [54272/54272]
+
+--2019-11-26 20:54:37--  http://www.essalud.gob.pe/transparencia/reg_visitas/MARTES_07_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56320 (55K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_07.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  369K 0s
+    50K .....                                                 100%  424K=0.1s
+
+2019-11-26 20:54:37 (373 KB/s) - ‘./2017_03_07.xls’ saved [56320/56320]
+
+--2019-11-26 20:54:37--  http://www.essalud.gob.pe/transparencia/reg_visitas/LUNES_06_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56832 (56K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_06.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  178K 0s
+    50K .....                                                 100% 1.08M=0.3s
+
+2019-11-26 20:54:38 (195 KB/s) - ‘./2017_03_06.xls’ saved [56832/56832]
+
+--2019-11-26 20:54:38--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_03_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57344 (56K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_03.xls’
+
+     0K .......... .......... .......... .......... .......... 89%  332K 0s
+    50K ......                                                100% 1.04M=0.2s
+
+2019-11-26 20:54:39 (358 KB/s) - ‘./2017_03_03.xls’ saved [57344/57344]
+
+--2019-11-26 20:54:39--  http://www.essalud.gob.pe/transparencia/reg_visitas/JUEVES_02_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58880 (58K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_02.xls’
+
+     0K .......... .......... .......... .......... .......... 86%  398K 0s
+    50K .......                                               100% 1.31M=0.1s
+
+2019-11-26 20:54:39 (438 KB/s) - ‘./2017_03_02.xls’ saved [58880/58880]
+
+--2019-11-26 20:54:39--  http://www.essalud.gob.pe/transparencia/reg_visitas/MIERCOLES_01_DE_MARZO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55296 (54K) [application/vnd.ms-excel]
+Saving to: ‘./2017_03_01.xls’
+
+     0K .......... .......... .......... .......... .......... 92%  389K 0s
+    50K ....                                                  100% 2.27M=0.1s
+
+2019-11-26 20:54:40 (415 KB/s) - ‘./2017_03_01.xls’ saved [55296/55296]
+
+--2019-11-26 20:54:40--  http://www.essalud.gob.pe/transparencia/reg_visitas/31_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_31.xls’
+
+     0K .......... .......... .......... .......... ..........100%  372K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:40 (372 KB/s) - ‘./2017_01_31.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:40--  http://www.essalud.gob.pe/transparencia/reg_visitas/30_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_30.xls’
+
+     0K .......... .......... .......... .......... .......   100%  347K=0.1s
+
+2019-11-26 20:54:40 (347 KB/s) - ‘./2017_01_30.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:40--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_27.xls’
+
+     0K .......... .......... .......... .......... .......   100%  347K=0.1s
+
+2019-11-26 20:54:41 (347 KB/s) - ‘./2017_01_27.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:41--  http://www.essalud.gob.pe/transparencia/reg_visitas/26_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78336 (76K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_26.xls’
+
+     0K .......... .......... .......... .......... .......... 65%  358K 0s
+    50K .......... .......... ......                          100% 1.26M=0.2s
+
+2019-11-26 20:54:41 (477 KB/s) - ‘./2017_01_26.xls’ saved [78336/78336]
+
+--2019-11-26 20:54:41--  http://www.essalud.gob.pe/transparencia/reg_visitas/25_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_25.xls’
+
+     0K .......... .......... .......... .......... ........  100%  331K=0.1s
+
+2019-11-26 20:54:42 (331 KB/s) - ‘./2017_01_25.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:42--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_24.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  330K=0.1s
+
+2019-11-26 20:54:42 (330 KB/s) - ‘./2017_01_24.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:42--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47104 (46K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_23.xls’
+
+     0K .......... .......... .......... .......... ......    100%  337K=0.1s
+
+2019-11-26 20:54:42 (337 KB/s) - ‘./2017_01_23.xls’ saved [47104/47104]
+
+--2019-11-26 20:54:42--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68608 (67K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_20.xls’
+
+     0K .......... .......... .......... .......... .......... 74%  383K 0s
+    50K .......... .......                                    100% 1.14M=0.1s
+
+2019-11-26 20:54:43 (462 KB/s) - ‘./2017_01_20.xls’ saved [68608/68608]
+
+--2019-11-26 20:54:43--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_19.xls’
+
+     0K .......... .......... .......... .......... ........  100%  351K=0.1s
+
+2019-11-26 20:54:43 (351 KB/s) - ‘./2017_01_19.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:43--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_18.xls’
+
+     0K .......... .......... .......... .......... ..........100%  356K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:44 (356 KB/s) - ‘./2017_01_18.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:44--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_17.xls’
+
+     0K .......... .......... .......... .......... .......   100%  346K=0.1s
+
+2019-11-26 20:54:44 (346 KB/s) - ‘./2017_01_17.xls’ saved [48640/48640]
+
+--2019-11-26 20:54:44--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_16.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  350K=0.1s
+
+2019-11-26 20:54:45 (350 KB/s) - ‘./2017_01_16.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_13.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  377K=0.1s
+
+2019-11-26 20:54:45 (377 KB/s) - ‘./2017_01_13.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/12_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_12.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  346K 0s
+    50K ..                                                    100%  191K=0.2s
+
+2019-11-26 20:54:45 (335 KB/s) - ‘./2017_01_12.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:45--  http://www.essalud.gob.pe/transparencia/reg_visitas/11_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51712 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_11.xls’
+
+     0K .......... .......... .......... .......... .......... 99%  384K 0s
+    50K                                                       100%  954G=0.1s
+
+2019-11-26 20:54:46 (387 KB/s) - ‘./2017_01_11.xls’ saved [51712/51712]
+
+--2019-11-26 20:54:46--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_10.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  366K 0s
+    50K ...                                                   100% 1.78M=0.1s
+
+2019-11-26 20:54:46 (383 KB/s) - ‘./2017_01_10.xls’ saved [54272/54272]
+
+--2019-11-26 20:54:46--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_09.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  349K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:47 (355 KB/s) - ‘./2017_01_09.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:47--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_06.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  340K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:47 (347 KB/s) - ‘./2017_01_06.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:47--  http://www.essalud.gob.pe/transparencia/reg_visitas/05_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54272 (53K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_05.xls’
+
+     0K .......... .......... .......... .......... .......... 94%  370K 0s
+    50K ...                                                   100% 3.85M=0.1s
+
+2019-11-26 20:54:48 (389 KB/s) - ‘./2017_01_05.xls’ saved [54272/54272]
+
+--2019-11-26 20:54:48--  http://www.essalud.gob.pe/transparencia/reg_visitas/04_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_04.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  374K 0s
+    50K ..                                                    100% 1.26M=0.1s
+
+2019-11-26 20:54:48 (385 KB/s) - ‘./2017_01_04.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:48--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_03.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  350K 0s
+    50K ..                                                    100% 22.9M=0.1s
+
+2019-11-26 20:54:49 (368 KB/s) - ‘./2017_01_03.xls’ saved [53760/53760]
+
+--2019-11-26 20:54:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_ENERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_01_02.xls’
+
+     0K .......... .......... .......... .......... .....     100%  331K=0.1s
+
+2019-11-26 20:54:49 (331 KB/s) - ‘./2017_01_02.xls’ saved [46080/46080]
+
+--2019-11-26 20:54:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/28_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_28.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  359K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:49 (366 KB/s) - ‘./2017_02_28.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:49--  http://www.essalud.gob.pe/transparencia/reg_visitas/27_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48640 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_27.xls’
+
+     0K .......... .......... .......... .......... .......   100%  364K=0.1s
+
+2019-11-26 20:54:50 (364 KB/s) - ‘./2017_02_27.xls’ saved [48640/48640]
+
+--2019-11-26 20:54:50--  http://www.essalud.gob.pe/transparencia/reg_visitas/24_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46080 (45K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_24.xls’
+
+     0K .......... .......... .......... .......... .....     100%  345K=0.1s
+
+2019-11-26 20:54:50 (345 KB/s) - ‘./2017_02_24.xls’ saved [46080/46080]
+
+--2019-11-26 20:54:50--  http://www.essalud.gob.pe/transparencia/reg_visitas/23_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_23.xls’
+
+     0K .......... .......... .......... .......... ........  100%  360K=0.1s
+
+2019-11-26 20:54:51 (360 KB/s) - ‘./2017_02_23.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/22_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48128 (47K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_22.xls’
+
+     0K .......... .......... .......... .......... .......   100%  330K=0.1s
+
+2019-11-26 20:54:51 (330 KB/s) - ‘./2017_02_22.xls’ saved [48128/48128]
+
+--2019-11-26 20:54:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_21.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  371K 0s
+    50K ..                                                    100% 3815G=0.1s
+
+2019-11-26 20:54:51 (386 KB/s) - ‘./2017_02_21.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:51--  http://www.essalud.gob.pe/transparencia/reg_visitas/20_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_20.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  328K=0.1s
+
+2019-11-26 20:54:52 (328 KB/s) - ‘./2017_02_20.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:52--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_17.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  344K=0.1s
+
+2019-11-26 20:54:52 (344 KB/s) - ‘./2017_02_17.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:52--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_16.xls’
+
+     0K .......... .......... .......... .......... ........  100%  340K=0.1s
+
+2019-11-26 20:54:53 (340 KB/s) - ‘./2017_02_16.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:53--  http://www.essalud.gob.pe/transparencia/reg_visitas/15_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50176 (49K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_15.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  354K=0.1s
+
+2019-11-26 20:54:53 (354 KB/s) - ‘./2017_02_15.xls’ saved [50176/50176]
+
+--2019-11-26 20:54:53--  http://www.essalud.gob.pe/transparencia/reg_visitas/14_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49152 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_14.xls’
+
+     0K .......... .......... .......... .......... ........  100%  360K=0.1s
+
+2019-11-26 20:54:53 (360 KB/s) - ‘./2017_02_14.xls’ saved [49152/49152]
+
+--2019-11-26 20:54:53--  http://www.essalud.gob.pe/transparencia/reg_visitas/13_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51200 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_13.xls’
+
+     0K .......... .......... .......... .......... ..........100%  350K 0s
+    50K                                                       100% 0.00 =0.1s
+
+2019-11-26 20:54:54 (350 KB/s) - ‘./2017_02_13.xls’ saved [51200/51200]
+
+--2019-11-26 20:54:54--  http://www.essalud.gob.pe/transparencia/reg_visitas/10_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49664 (48K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_10.xls’
+
+     0K .......... .......... .......... .......... ........  100%  346K=0.1s
+
+2019-11-26 20:54:54 (346 KB/s) - ‘./2017_02_10.xls’ saved [49664/49664]
+
+--2019-11-26 20:54:54--  http://www.essalud.gob.pe/transparencia/reg_visitas/09_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53760 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_09.xls’
+
+     0K .......... .......... .......... .......... .......... 95%  344K 0s
+    50K ..                                                    100% 3.20M=0.1s
+
+2019-11-26 20:54:55 (359 KB/s) - ‘./2017_02_09.xls’ saved [53760/53760]
+
+--2019-11-26 20:54:55--  http://www.essalud.gob.pe/transparencia/reg_visitas/08_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56320 (55K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_08.xls’
+
+     0K .......... .......... .......... .......... .......... 90%  344K 0s
+    50K .....                                                 100% 1.60M=0.1s
+
+2019-11-26 20:54:55 (370 KB/s) - ‘./2017_02_08.xls’ saved [56320/56320]
+
+--2019-11-26 20:54:55--  http://www.essalud.gob.pe/transparencia/reg_visitas/07_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_07.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  348K 0s
+    50K ..                                                    100%  226K=0.2s
+
+2019-11-26 20:54:56 (341 KB/s) - ‘./2017_02_07.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/06_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53248 (52K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_06.xls’
+
+     0K .......... .......... .......... .......... .......... 96%  363K 0s
+    50K ..                                                    100% 1.54M=0.1s
+
+2019-11-26 20:54:56 (374 KB/s) - ‘./2017_02_06.xls’ saved [53248/53248]
+
+--2019-11-26 20:54:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/03_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_03.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  384K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:56 (391 KB/s) - ‘./2017_02_03.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:56--  http://www.essalud.gob.pe/transparencia/reg_visitas/02_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50688 (50K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_02.xls’
+
+     0K .......... .......... .......... .......... ......... 100%  371K=0.1s
+
+2019-11-26 20:54:57 (371 KB/s) - ‘./2017_02_02.xls’ saved [50688/50688]
+
+--2019-11-26 20:54:57--  http://www.essalud.gob.pe/transparencia/reg_visitas/01_DE_FEBRERO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52224 (51K) [application/vnd.ms-excel]
+Saving to: ‘./2017_02_01.xls’
+
+     0K .......... .......... .......... .......... .......... 98%  342K 0s
+    50K .                                                     100% 1907G=0.1s
+
+2019-11-26 20:54:57 (349 KB/s) - ‘./2017_02_01.xls’ saved [52224/52224]
+
+--2019-11-26 20:54:57--  http://www.essalud.gob.pe/transparencia/reg_visitas/JULIO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345088 (337K) [application/vnd.ms-excel]
+Saving to: ‘./2017_07.xls’
+
+     0K .......... .......... .......... .......... .......... 14%  363K 1s
+    50K .......... .......... .......... .......... .......... 29%  916K 0s
+   100K .......... .......... .......... .......... .......... 44%  450K 0s
+   150K .......... .......... .......... .......... .......... 59%  621K 0s
+   200K .......... .......... .......... .......... .......... 74%  578K 0s
+   250K .......... .......... .......... .......... .......... 89%  641K 0s
+   300K .......... .......... .......... .......              100%  489K=0.6s
+
+2019-11-26 20:54:58 (540 KB/s) - ‘./2017_07.xls’ saved [345088/345088]
+
+--2019-11-26 20:54:58--  http://www.essalud.gob.pe/transparencia/reg_visitas/15%20_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47616 (46K) [application/vnd.ms-excel]
+Saving to: ‘2017_05_15.xls’
+
+     0K .......... .......... .......... .......... ......    100%  360K=0.1s
+
+2019-11-26 20:54:59 (360 KB/s) - ‘2017_05_15.xls’ saved [47616/47616]
+

@@ -1,0 +1,29 @@
+--2019-11-26 20:53:25--  http://www.essalud.gob.pe/transparencia/reg_visitas/21_DE_OCTUBRE_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:53:26 ERROR 404: Not Found.
+
+--2019-11-26 20:54:21--  http://www.essalud.gob.pe/transparencia/reg_visitas/19_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:22 ERROR 404: Not Found.
+
+--2019-11-26 20:54:22--  http://www.essalud.gob.pe/transparencia/reg_visitas/18_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:23 ERROR 404: Not Found.
+
+--2019-11-26 20:54:23--  http://www.essalud.gob.pe/transparencia/reg_visitas/17_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.119.182.148, 190.81.44.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.119.182.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:24 ERROR 404: Not Found.
+
+--2019-11-26 20:54:24--  http://www.essalud.gob.pe/transparencia/reg_visitas/16_DE_MAYO_2017.xls
+Resolving www.essalud.gob.pe (www.essalud.gob.pe)... 190.81.44.148, 190.119.182.148
+Connecting to www.essalud.gob.pe (www.essalud.gob.pe)|190.81.44.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 20:54:25 ERROR 404: Not Found.
